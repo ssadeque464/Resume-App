@@ -1,11 +1,11 @@
 {
   "Resumes":
   [
-    {"Name":"John H. Smith","Email":"info@greatresumesfast.com","Phone":"800-991-5187","Location":"FL","viewResume":"https://github.com/ssadeque464/Resume-App/blob/master/resumes/john.PDF"},
-    {"Name":"Haytham Kenway","Email":"your@email.com","Phone":"222-222-2222","Location":"VA","viewResume":"https://github.com/ssadeque464/Resume-App/blob/master/resumes/haytham.pdf"},
-    {"Name":"Nigel Hernandez","Email":"hernandez@email.com","Phone":"659-864-4568","Location":"CA","viewResume":"https://github.com/ssadeque464/Resume-App/blob/master/resumes/nigel.pdf"},
-    {"Name":"Phoenix Wright","Email":"wright@example.com","Phone":"555-555-5555","Location":"VA","viewResume":"https://github.com/ssadeque464/Resume-App/blob/master/resumes/phoenix.pdf"},
-    {"Name":"Tim Smith","Email":"tim@email.com","Phone":"555-555-5555","Location":"TX","viewResume":"https://github.com/ssadeque464/Resume-App/blob/master/resumes/tim.pdf"}
+    {"Name":"John H. Smith","Email":"info@greatresumesfast.com","Phone":"8009915187","Location":"FL","viewResume":"https://github.com/ssadeque464/Resume-App/blob/master/resumes/john.PDF"},
+    {"Name":"Haytham Kenway","Email":"your@email.com","Phone":"2222222222","Location":"VA","viewResume":"https://github.com/ssadeque464/Resume-App/blob/master/resumes/haytham.pdf"},
+    {"Name":"Nigel Hernandez","Email":"hernandez@email.com","Phone":"6598644568","Location":"CA","viewResume":"https://github.com/ssadeque464/Resume-App/blob/master/resumes/nigel.pdf"},
+    {"Name":"Phoenix Wright","Email":"wright@example.com","Phone":"5555555555","Location":"VA","viewResume":"https://github.com/ssadeque464/Resume-App/blob/master/resumes/phoenix.pdf"},
+    {"Name":"Tim Smith","Email":"tim@email.com","Phone":"5555555555","Location":"TX","viewResume":"https://github.com/ssadeque464/Resume-App/blob/master/resumes/tim.pdf"}
   ],
   "Status":"OK"
 }
